@@ -1,0 +1,32 @@
+body.serif {
+    
+    text-align: justify;
+    letter-spacing: 3px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+body{
+	background-image: url("333.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+table{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+
+}
+
+td, th{
+	border: 1px solid #b4b4b4;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #b4b4b4
+}
+#container{
+	background:url(111.jpg) top left;
+}
+

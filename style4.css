@@ -1,0 +1,24 @@
+body{
+	background:url(555.jpg);
+	background-size:cover;
+
+
+}
+
+#box{
+	width: 400px;
+    margin: 40px auto 0;
+    padding: 50px;
+    box-sizing: border-box;
+    background: url('666.jpg') top left repeat;
+    box-shadow: 0 10px 15px -8px #000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2{
+	margin: 0 0 10 px;
+	padding: 0 0 10 px;
+}
